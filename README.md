@@ -56,9 +56,18 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya mı link veriyoruz hocam?](https://docs.google.com/spreadsheets/d/1stnaSU4EwF3aGddOBZSJ0y1J8i7vpq83ODpkSmrdzlI/edit?usp=sharing)  (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denklemim: _x = Konum t = Zaman x = -1,14t^2+1,76t+3,83E-03_ . Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+a)✔️  Denklemim: _x = Konum t = Zaman x = -1,14t^2+1,76t+3,83E-03_ . Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif? 
+Bu soru için Geogebradan biraz yardım aldım bulduğum grafiği yazdım ve katsayıları değiştirerek neler olduğunu gözlemledim
+a yı arttırdıkça konum ve zaman azalıyordu ve grafik daha bükülmüüş hale geliyordu yani eğim azalıyordu
+b yi arttırdıkça konum ve zaman artıyordu
+c yi arttırdıkça grafiğin y ekseni yani konumla kesiştiği nokta değişiyordu
+burdan yorumlayarak: 
+a nın sürtünme kuvveti olduğunu ve bu yüzden negatif olduğunu söyleyebilirim.
+b nin başlangıç hızı veya başlagıç kuvveti olduğunu ve 
+c nin ilk konumu olduğunu söyleyebilirim.
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+b)✔️ Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+**Sabittir**. a = F/m olacağından ve net f kuvveti ve kütle sabit olduğundan ivmede sabittir.
 
 c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
 
