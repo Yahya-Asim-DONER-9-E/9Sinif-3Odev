@@ -11,8 +11,7 @@ Aşağıdaki yönerge adımlarını lütfen uygulayın.
 
 4) [Bu Video'nun](https://www.youtube.com/watch?v=fhIL18aHg8s&feature=youtu.be) 1.kısmını izliyerek (11-26 saniye arası) 1 kg'lık bir kütlenin  zaman-konum grafiğini çizecekseniz. Burada ivmeli (yavaşlayan) bir hareket olacağından konum-zaman grafiği 2.dereceden denklem olarak çıkacak. 2.dereceden bir denklemi elle çizmeyi 10.sınıf matematik dersinde öğreneceksiniz. Siz bu ödevde bilgisayardan yardım alacaksanız. Video izliyerek çıkardığım zaman-konum tablosu aşağıdaki gibidir. (Not: Video 60 FPS(frame pers second) ile çekilmiştir. O zaman her frame(çerçeve) 1/60 s'dir. Siz istediğiniz noktayı orijin olarak alabilirsiniz. Ben 7'inci frameden başladım ve kütlenin sol ucunu başlangıç noktası seçtim. (x=0, t=0) 
 
-| Sizin Tablonuz                   |Buda Benim Tablom|
-|-----------------------------------|-----------------|
+
 | Frame | Zaman(s) | Konum (m)|           | Frame | Zaman(s) | Konum (m)|   
 |-------|----------| ---------|           |-------|----------| ---------|
 | 7 (Başlangıç)| 0 |   0      |           |7(Başlangıç)|  0  |    0     |
