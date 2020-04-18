@@ -72,7 +72,7 @@ a nın sürtünme kuvveti olduğunu ve bu yüzden negatif olduğunu söyleyebili
 b nin başlangıç hızı veya başlagıç kuvveti olduğunu ve 
 
 c nin ilk konumu olduğunu söyleyebilirim.
-![Geogebra](file:///C:/Users/myazo/Videos/Captures/Grafik%20Çizen%20Hesap%20Makinesi%20-%20GeoGebra%20-%20Opera%2018.04.2020%2012_41_14%20(2).png)
+![Geogebra](https://user-images.githubusercontent.com/63353356/79634342-86708f80-8172-11ea-9e11-ee6702a31b0b.png)
 
 b)✔️ Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
 **Sabittir**. a = F/m olacağından ve net f kuvveti ve kütle sabit olduğundan ivmede sabittir.
