@@ -60,18 +60,14 @@ a)✔️  Denklemim: _x = Konum t = Zaman x = -1,14t^2+1,76t+3,83E-03_ . Sizce a
 
 Bu soru için Geogebradan biraz yardım aldım bulduğum grafiği yazdım ve katsayıları değiştirerek neler olduğunu gözlemledim
 
-a yı arttırdıkça konum ve zaman azalıyordu ve grafik daha bükülmüüş hale geliyordu yani eğim azalıyordu
-
-b yi arttırdıkça konum ve zaman artıyordu
-
-c yi arttırdıkça grafiğin y ekseni yani konumla kesiştiği nokta değişiyordu
+* a yı arttırdıkça konum ve zaman azalıyordu ve grafik daha bükülmüüş hale geliyordu yani eğim azalıyordu
+* b yi arttırdıkça konum ve zaman artıyordu
+* c yi arttırdıkça grafiğin y ekseni yani konumla kesiştiği nokta değişiyordu
 burdan yorumlayarak: 
-
-a nın sürtünme kuvveti olduğunu ve bu yüzden negatif olduğunu söyleyebilirim.
-
-b nin başlangıç hızı veya başlagıç kuvveti olduğunu ve 
-
-c nin ilk konumu olduğunu söyleyebilirim.
+--------------------------------------------------------------------------------------------
+* a nın sürtünme kuvveti olduğunu ve bu yüzden negatif olduğunu söyleyebilirim.
+* b nin başlangıç hızı veya başlagıç kuvveti olduğunu ve 
+* c nin ilk konumu olduğunu söyleyebilirim.
 ![Geogebra](https://user-images.githubusercontent.com/63353356/79634342-86708f80-8172-11ea-9e11-ee6702a31b0b.png)
 
 b)✔️ Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
