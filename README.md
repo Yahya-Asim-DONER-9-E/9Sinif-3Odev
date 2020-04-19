@@ -94,7 +94,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 * F = m . a dan F(s) = 1 . -3 olur burdan F(sürtünme) -3 bulunur.
 * F(s) = k . x ten -3 = k .  0.675 gelir burdan k = -4,44 buldum.
 
-# Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
+# Bölüm 3 (Ramak Kaldı Diyebilirim)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
@@ -102,4 +102,7 @@ Yardım:
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2, burdan cismin ilk hızını bulunuz. 
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+
+
+3)✔️ Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+  Bulamazdınız çünkü cismi harekete geçirmek için gereken kuvvvetin kaç olduğunu bilmiyorsunuz.
